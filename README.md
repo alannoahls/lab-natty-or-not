@@ -1,51 +1,26 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# FOTO FALANTE
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Neste projeto, eu criei um vídeo curto com a voz da Ariana Grande utilizando ferramentas de IA generativa. O objetivo foi explorar a capacidade das IAs em criar conteúdo engajador, imitando a voz de uma celebridade conhecida e apresentando um vídeo que parece autêntico.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **ChatGPT**: Utilizado para criar o script para o video
+- **Vidnoz AI**: Utilizado para a clonagem da voz e a criação do vídeo com a voz e foto da Ariana Grande.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Criação do Script**: Usei o ChatGPT para criar um pequeno texto divertido sobre o último álbum da Ariana Grande, "Eternal Sunshine."
+2. **Clonagem da Voz**: Usei o Vidnoz AI para gerar uma voz que imita a Ariana Grande, com base no script fornecido.
+3. **Criação do Vídeo**: coloquei a voz gerada no site, sincronizando a fala com a foto falante para criar uma experiência da cantora estar falando o que eu coloquei no script
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- **Vídeo**: O vídeo final pode ser encontrado na pasta `videos` do repositório. Ele apresenta a voz e foto viva da Ariana Grande falando sobre seu álbum mais recente, "Eternal Sunshine."
+
+   [Assista ao Vídeo](https://github.com/alannoahls/lab-natty-or-not/blob/main/videos/ag.mp4)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Criar um conteúdo 'natty' (natural) com IA é um desafio interessante. Embora a tecnologia tenha avançado significativamente, há sempre detalhes de autenticidade que podem ser difíceis de capturar completamente. Este projeto demonstrou o potencial das IAs em criar conteúdo quase realista e o impacto que essas tecnologias podem ter na forma como consumimos e interagimos com mídias digitais. Eu acredito que vamos chegar num ponto de não saber o que é real ou não e estou ansioso em contruibuir cada vez mais em mexer com a realidade
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
